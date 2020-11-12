@@ -44,5 +44,4 @@ ingin kolaborasi ?
 kontak saya : 
 
 Email : anandarauf02@gmail.com
-nomorhp : 083879627956.
 Instagram: https://www.instagram.com/anandaraufm
