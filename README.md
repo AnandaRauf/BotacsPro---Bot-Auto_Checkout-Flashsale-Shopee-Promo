@@ -13,6 +13,7 @@ Bahan :
 - library countdown timer : pip install countdown-timer 
 - library bukafile dan bacaisi file : pip install os
 
+Revisi AutoRunCMD : https://github.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/releases/tag/1.0
 Cara pakai bot langsung :
 
 - Download repository ini.
