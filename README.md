@@ -33,11 +33,11 @@ Donasi uang seikhlas-nya untuk saya beli kopi dan cemilan hehe :D :
 
 Ovocash : 
 
-![alt text] (https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/Ovocash.jpg)
+![alt text] (https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/ovo.jpg)
 
 Dana : 
 
-![alt text] (https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/Dana.jpg)
+![alt text] (https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/dana.jpg)
 
 ingin kolaborasi ? 
 
