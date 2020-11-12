@@ -33,11 +33,11 @@ Donasi uang seikhlas-nya untuk saya beli kopi dan cemilan hehe :D :
 
 Ovocash : 
 
-![alt text] (https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/ovo.jpg)
+![alt text](https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/ovo.jpg)
 
 Dana : 
 
-![alt text] (https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/dana.jpg)
+![alt text](https://raw.githubusercontent.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/master/dana.jpg)
 
 ingin kolaborasi ? 
 
