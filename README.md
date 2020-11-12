@@ -28,3 +28,21 @@ Kontribusi Botacs :
 
 - Buka file .sln di Visual Studio.
 - Selesai.
+
+Donasi uang seikhlas-nya untuk saya beli kopi dan cemilan hehe :D :
+
+Ovocash : 
+
+![alttext] (https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/Ovocash.jpg)
+
+Dana : 
+
+![alttext] (https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/Dana.jpg)
+
+ingin kolaborasi ? 
+
+kontak saya : 
+
+Email : anandarauf02@gmail.com
+nomorhp : 083879627956.
+Instagram: https://www.instagram.com/anandaraufm
