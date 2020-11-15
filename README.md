@@ -4,8 +4,11 @@ Dev by : Ananda Rauf Maududi.
 Dev date : 12 November 2020.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Versi 2 : 
+https://github.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo/releases/tag/2
+
 Bahan : 
-- Pyhton versi 3.7 minimal, maksimal versi terbaru, download disini : https://www.python.org/downloads/
+- Python versi 3.7 minimal, maksimal versi terbaru, download disini : https://www.python.org/downloads/
 - Visual Studio 2019 : visualstudio.microsoft.com/downloads
 - Net framework versi 4.8 : https://dotnet.microsoft.com/download/dotnet-framework/net48
 - library Selenium : pip install selenium.
